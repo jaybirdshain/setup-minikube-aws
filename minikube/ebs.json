@@ -1,8 +1,0 @@
-[
-   {
-      "DeviceName": "/dev/sdh",
-      "Ebs": {
-         "VolumeSize": 40
-      }
-   }
-]
